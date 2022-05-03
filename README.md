@@ -1,1 +1,1 @@
-# multivariate_statistic_procedures
+# multivariate-statistic-procedures
